@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @A-DurMk1
-- 🌱 I’m currently learning the basics of C
-- My favourite editor is Emacs
+- Hi, I’m @A-DurMk1
+- Editor of choice: Doom Emacs
+- Language of choice: C
+- OS of choice: Linux(Arch)
