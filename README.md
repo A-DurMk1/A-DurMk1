@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @A-DurMk1
+- 🌱 I’m currently learning the basics of C
+- My favourite editor is Emacs
